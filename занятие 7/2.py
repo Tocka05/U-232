@@ -1,3 +1,4 @@
+#Вариант 6
 def inp():
     list = []
     while len(list) != 10:
