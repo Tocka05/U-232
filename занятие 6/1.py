@@ -1,3 +1,4 @@
+#Вариант 14
 stroke = str(input('Введите строку: '))
 
 def count(s):
